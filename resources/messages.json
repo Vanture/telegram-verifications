@@ -1,0 +1,9 @@
+{
+    "not-verified": "This user is not verified.",
+    "user-verified": "This user is currently verified for: {}",
+    "reason-required": "You must provide context for the verification",
+    "verified": "Successfully verified user {} for: {}",
+    "cleared": "Removed verification for user {}.",
+    "authorized": "Successfully authorized user {} for verifications.",
+    "revoked": "Successfully revoked verification ability for user {}."
+}
